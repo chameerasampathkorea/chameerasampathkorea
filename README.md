@@ -1,48 +1,100 @@
-# Hi there, I'm Chameera Sampath 👋
-
-Full-Stack Developer, Python Enthusiast & Digital Tool Builder. Focused on creating privacy-centric, client-side web applications, automations, and developer utilities.
-
-🌐 **Website & Tools:** [digvibes.com](https://digvibes.com/) • 💼 **Core Project:** [DigVibes Suite](https://digvibes.com/tools/)
-
----
-
-### 🚀 What I'm Working On
-- ⚡ **[DigVibes](https://digvibes.com/):** High-performance, client-side utilities including image & video watermark removal.
-- 🐍 **Python Automation & Analytics:** Building data scrapers, sentiment analysis engines, and GUI desktop tools.
-- 🎨 **HTML5 Canvas Engineering:** Advanced browser-level pixel manipulation and reverse alpha compositing algorithms.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=flat-square&logo=qt&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-### 🚀 Featured Platforms & Open Tools
-
-- ☀️ **[AMPXA (ampxa.com)](https://ampxa.com/):** A minimalist, transparent engineering calculator suite for electricians & solar PV installers (Solar Wire Sizing, Conduit Fill, Ohm's Law & Ampacity).
-- ⚡ **[DigVibes (digvibes.com)](https://digvibes.com/):** High-performance, client-side media utilities powered by HTML5 Canvas & reverse blending algorithms.
-- 🐍 **Automation & Tooling:** Custom data scraping engines, desktop PyQt applications, and programmatic utility scripts.
-
----
-
-### 📊 GitHub Activity & Highlights
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chameerasampathkorea&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b1118&title_color=c7fb69&icon_color=c7fb69&text_color=8ea3b8" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chameerasampathkorea&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b1118&title_color=c7fb69&text_color=8ea3b8" alt="Top Languages" />
+
+  <!-- Dynamic Typing Animation Header -->
+  <a href="https://digvibes.com/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=C7FB69&center=true&vCenter=true&random=false&width=620&lines=Hi+%F0%9F%91%8B+I'm+Chameera+Sampath;Full-Stack+%26+Python+Developer;Creator+of+DigVibes+%26+AMPXA;Client-Side+Web+Tools+%26+Automation" alt="Typing SVG" />
+  </a>
+
+  <p align="center">
+    <strong>Architecting transparent web tools, high-precision engineering calculators & client-side media engines.</strong>
+  </p>
+
+  <p align="center">
+    <a href="https://digvibes.com/"><img src="https://img.shields.io/badge/DigVibes-Live%20Platform-0b1118?style=for-the-badge&logo=googlechrome&logoColor=c7fb69" /></a>
+    <a href="https://ampxa.com/"><img src="https://img.shields.io/badge/AMPXA-Engineering%20Suite-0b1118?style=for-the-badge&logo=lightning&logoColor=f7ca6d" /></a>
+    <a href="https://github.com/chameerasampathkorea"><img src="https://img.shields.io/badge/Status-Active%20Building-0b1118?style=for-the-badge&logo=git&logoColor=38d39f" /></a>
+  </p>
+
 </div>
 
 ---
 
-### 🔗 Connect With Me
-- 🌐 Main Platform: [digvibes.com](https://digvibes.com/)
-- 📖 Guide & Docs: [Gemini Watermark Removal Guide](https://digvibes.com/how-to-remove-gemini-watermark/)
-- 💻 Open Source: [gemini-watermark-remover](https://github.com/chameerasampathkorea/gemini-watermark-remover)
+### ⚡ Operational Platforms & Core Ecosystem
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">⚡ DigVibes</h3>
+      <p align="center"><strong>Client-Side Media & Utility Suite</strong></p>
+      <ul>
+        <li><b>Zero-Server Processing:</b> 100% private in-browser canvas rendering.</li>
+        <li><b>Reverse Alpha Compositing:</b> Mathematical watermark removal without diffusion blur.</li>
+        <li><b>Digital Store:</b> Scalable verified subscriptions and tools.</li>
+      </ul>
+      <p align="center">
+        <a href="https://digvibes.com/"><b>Explore Platform ↗</b></a> • 
+        <a href="https://github.com/chameerasampathkorea/gemini-watermark-remover"><b>Source Repo</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">☀️ AMPXA</h3>
+      <p align="center"><strong>Open Electrical & Solar PV Engineering</strong></p>
+      <ul>
+        <li><b>Formula-Transparent:</b> Exposes governing equations & assumptions.</li>
+        <li><b>Core Tools:</b> Solar Wire Sizing, Conduit Fill & DC Ohm's Law.</li>
+        <li><b>Minimalist & Fast:</b> Ad-free, frictionless job-site arithmetic.</li>
+      </ul>
+      <p align="center">
+        <a href="https://ampxa.com/"><b>Explore Platform ↗</b></a> • 
+        <a href="https://github.com/chameerasampathkorea/ampxa-electrical-solar-calculators"><b>Source Repo</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Tech Stack & Engineering Weapons
+
+<div align="center">
+
+  #### Core Languages & Frameworks
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,qt,bash&theme=dark" />
+
+  <br>
+
+  #### Libraries, Systems & Cloud
+  <img src="https://skillicons.dev/icons?i=opencv,git,github,cloudflare,vscode,linux&theme=dark" />
+
+</div>
+
+---
+
+### 📊 Real-Time GitHub Analytics & Metrics
+
+<div align="center">
+  <br>
+  <!-- GitHub Activity Stats (Dark Minimal Neon Theme) -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=chameerasampathkorea&show_icons=true&theme=midnight-purple&bg_color=0b1118&title_color=c7fb69&icon_color=c7fb69&text_color=8ea3b8&border_color=1f2f40&hide_border=false" width="48%" alt="Chameera's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chameerasampathkorea&layout=compact&theme=midnight-purple&bg_color=0b1118&title_color=c7fb69&text_color=8ea3b8&border_color=1f2f40&hide_border=false" width="42%" alt="Most Used Languages" />
+  <br><br>
+
+  <!-- Interactive Contribution Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chameerasampathkorea&theme=dark&background=0b1118&border=1f2f40&stroke=c7fb69&ring=c7fb69&fire=c7fb69&currStreakLabel=c7fb69" width="90%" alt="Contribution Streak" />
+</div>
+
+---
+
+### 🐍 Contribution Activity Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chameerasampathkorea/chameerasampathkorea/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chameerasampathkorea/chameerasampathkorea/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/chameerasampathkorea/chameerasampathkorea/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+---
+
+<div align="center">
+  <sub>Engineered with precision by <b>Chameera Sampath</b> • Powering <a href="https://digvibes.com/">DigVibes</a> &amp; <a href="https://ampxa.com/">AMPXA</a></sub>
+</div>
