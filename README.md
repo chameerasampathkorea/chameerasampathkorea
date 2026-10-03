@@ -1,17 +1,18 @@
 <div align="center">
 
   <!-- Dynamic Typing Animation Header -->
-  <a href="https://digvibes.com/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=C7FB69&center=true&vCenter=true&random=false&width=620&lines=Hi+%F0%9F%91%8B+I'm+Chameera+Sampath;Full-Stack+%26+Python+Developer;Creator+of+DigVibes+%26+AMPXA;Client-Side+Web+Tools+%26+Automation" alt="Typing SVG" />
+  <a href="https://energycostmap.com/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=C7FB69&center=true&vCenter=true&random=false&width=650&lines=Hi+%F0%9F%91%8B+I'm+Chameera+Sampath;Full-Stack+%26+Python+Developer;Creator+of+EnergyCostMap%2C+AMPXA+%26+DigVibes;Open-Access+Energy+Data+%26+Calculators" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <strong>Architecting transparent web tools, high-precision engineering calculators & client-side media engines.</strong>
+    <strong>Architecting transparent web tools, high-precision engineering calculators, state-level energy models & client-side media engines.</strong>
   </p>
 
   <p align="center">
-    <a href="https://digvibes.com/"><img src="https://img.shields.io/badge/DigVibes-Live%20Platform-0b1118?style=for-the-badge&logo=googlechrome&logoColor=c7fb69" /></a>
+    <a href="https://energycostmap.com/"><img src="https://img.shields.io/badge/EnergyCostMap-Live%20Platform-0b1118?style=for-the-badge&logo=solaredge&logoColor=00f2fe" /></a>
     <a href="https://ampxa.com/"><img src="https://img.shields.io/badge/AMPXA-Engineering%20Suite-0b1118?style=for-the-badge&logo=lightning&logoColor=f7ca6d" /></a>
+    <a href="https://digvibes.com/"><img src="https://img.shields.io/badge/DigVibes-Media%20Tools-0b1118?style=for-the-badge&logo=googlechrome&logoColor=c7fb69" /></a>
     <a href="https://github.com/chameerasampathkorea"><img src="https://img.shields.io/badge/Status-Active%20Building-0b1118?style=for-the-badge&logo=git&logoColor=38d39f" /></a>
   </p>
 
@@ -23,30 +24,43 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">⚡ DigVibes</h3>
-      <p align="center"><strong>Client-Side Media & Utility Suite</strong></p>
+    <td width="33%" valign="top">
+      <h3 align="center">☀️ EnergyCostMap</h3>
+      <p align="center"><strong>US Solar Payback & Tariff Modeling</strong></p>
       <ul>
-        <li><b>Zero-Server Processing:</b> 100% private in-browser canvas rendering.</li>
-        <li><b>Reverse Alpha Compositing:</b> Mathematical watermark removal without diffusion blur.</li>
-        <li><b>Digital Store:</b> Scalable verified subscriptions and tools.</li>
+        <li><b>Post-ITC Reality:</b> 50-state payback engine modeled under 0% Section 25D.</li>
+        <li><b>Netting Dynamics:</b> Granular 15-min vs monthly true-up analytics.</li>
+        <li><b>Open Access:</b> Public API, DOI-backed dataset & research tables.</li>
       </ul>
       <p align="center">
-        <a href="https://digvibes.com/"><b>Explore Platform ↗</b></a> • 
-        <a href="https://github.com/chameerasampathkorea/gemini-watermark-remover"><b>Source Repo</b></a>
+        <a href="https://energycostmap.com/"><b>Explore Platform ↗</b></a> • 
+        <a href="https://github.com/chameerasampathkorea/us-solar-payback-by-state"><b>Source Repo</b></a>
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">☀️ AMPXA</h3>
-      <p align="center"><strong>Open Electrical & Solar PV Engineering</strong></p>
+    <td width="33%" valign="top">
+      <h3 align="center">⚡ AMPXA</h3>
+      <p align="center"><strong>Open Electrical & PV Engineering</strong></p>
       <ul>
-        <li><b>Formula-Transparent:</b> Exposes governing equations & assumptions.</li>
+        <li><b>Formula-Transparent:</b> Exposes governing equations & NEC assumptions.</li>
         <li><b>Core Tools:</b> Solar Wire Sizing, Conduit Fill & DC Ohm's Law.</li>
         <li><b>Minimalist & Fast:</b> Ad-free, frictionless job-site arithmetic.</li>
       </ul>
       <p align="center">
         <a href="https://ampxa.com/"><b>Explore Platform ↗</b></a> • 
         <a href="https://github.com/chameerasampathkorea/ampxa-electrical-solar-calculators"><b>Source Repo</b></a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🔮 DigVibes</h3>
+      <p align="center"><strong>Client-Side Media & Utility Suite</strong></p>
+      <ul>
+        <li><b>Zero-Server Processing:</b> 100% private in-browser canvas rendering.</li>
+        <li><b>Alpha Compositing:</b> Mathematical watermark removal without blur.</li>
+        <li><b>Digital Store:</b> Scalable verified subscriptions and tools.</li>
+      </ul>
+      <p align="center">
+        <a href="https://digvibes.com/"><b>Explore Platform ↗</b></a> • 
+        <a href="https://github.com/chameerasampathkorea/gemini-watermark-remover"><b>Source Repo</b></a>
       </p>
     </td>
   </tr>
@@ -96,5 +110,5 @@
 ---
 
 <div align="center">
-  <sub>Engineered with precision by <b>Chameera Sampath</b> • Powering <a href="https://digvibes.com/">DigVibes</a> &amp; <a href="https://ampxa.com/">AMPXA</a></sub>
+  <sub>Engineered with precision by <b>Chameera Sampath</b> • Powering <a href="https://energycostmap.com/">EnergyCostMap</a>, <a href="https://ampxa.com/">AMPXA</a> &amp; <a href="https://digvibes.com/">DigVibes</a></sub>
 </div>
